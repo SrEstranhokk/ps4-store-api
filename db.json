@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Exemplo de Jogo",
+    "title_id": "CUSA12345",
+    "version": "1.00",
+    "size": "5.4 GB",
+    "icon": "https://i.imgur.com/exemplo.png",
+    "pkg_url": "https://seu-link-de-download.com/jogo.pkg"
+  }
+]
